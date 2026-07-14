@@ -1,1 +1,1 @@
-# Elasticsearch, Fluentd, Kibana notes
+# Elasticsearch, Fluentd and Kibana notes
